@@ -1,0 +1,13 @@
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\bin\Debug\netcoreapp2.0\ninja-shop.api.deps.json
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\bin\Debug\netcoreapp2.0\ninja-shop.api.runtimeconfig.json
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\bin\Debug\netcoreapp2.0\ninja-shop.api.runtimeconfig.dev.json
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\bin\Debug\netcoreapp2.0\ninja-shop.api.dll
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\bin\Debug\netcoreapp2.0\ninja-shop.api.pdb
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\obj\Debug\netcoreapp2.0\ninja-shop.api.csprojAssemblyReference.cache
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\obj\Debug\netcoreapp2.0\ninja-shop.api.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\obj\Debug\netcoreapp2.0\ninja-shop.api.AssemblyInfo.cs
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\obj\Debug\netcoreapp2.0\ninja-shop.api.dll
+C:\Users\Саша\Desktop\ninja-shop-api-master\ninja-shop.api\obj\Debug\netcoreapp2.0\ninja-shop.api.pdb

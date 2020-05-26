@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{B8557597-21D0-4CBE-9610-FBFBF49C765C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ninja-shop.api/Models/Customer.cs">
+    <Files>
+      <File FileName="ninja-shop.api/Controllers/CustomersController.cs" Line="50" Column="1" />
+      <File FileName="ninja-shop.api/Controllers/OrdersController.cs" />
+      <File FileName="ninja-shop.api/Controllers/ProductsController.cs" />
+      <File FileName="ninja-shop.api/Models/Products Public Api/GetProduct.cs" />
+      <File FileName="ninja-shop.api/InMemoryInfrastructure/CustomerRepository.cs" />
+      <File FileName="ninja-shop.api/Helper/UnprocessableEntityObjectResult.cs" Line="3" Column="44" />
+      <File FileName="ninja-shop.api/InMemoryInfrastructure/InMemoryStorage.cs" />
+      <File FileName="ninja-shop.api/InMemoryInfrastructure/OrderRepository.cs" />
+      <File FileName="ninja-shop.api/InMemoryInfrastructure/ProductRepository.cs" Line="1" Column="1" />
+      <File FileName="ninja-shop.api/Models/Customer.cs" Line="18" Column="2" />
+      <File FileName="ninja-shop.api/Models/Order.cs" />
+      <File FileName="ninja-shop.api/Models/Product.cs" />
+      <File FileName="ninja-shop.api/Models/ProductRequest.cs" />
+      <File FileName="ninja-shop.api/Services/ICustomerRepository.cs" />
+      <File FileName="ninja-shop.api/Services/IDataContext.cs" />
+      <File FileName="ninja-shop.api/Program.cs" />
+      <File FileName="ninja-shop.api/Startup.cs" />
+      <File FileName="ninja-shop.api/Services/IOrderRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Product_Shop.api" expanded="True">
+            <Node name="Product_Shop.api" expanded="True">
+              <Node name="Helper" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Product__Shop.api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

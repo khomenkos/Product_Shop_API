@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>ninja_shop.core</AssemblyName>
+    <RootNamespace>ninja_shop.core</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Models" />
+  </ItemGroup>
+</Project>

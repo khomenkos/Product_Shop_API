@@ -1,0 +1,28 @@
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/bin/Debug/netcoreapp2.0/appsettings.Development.json
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/bin/Debug/netcoreapp2.0/appsettings.json
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/bin/Debug/netcoreapp2.0/Product_Shop.api.deps.json
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/bin/Debug/netcoreapp2.0/Product_Shop.api.runtimeconfig.json
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/bin/Debug/netcoreapp2.0/Product_Shop.api.runtimeconfig.dev.json
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/bin/Debug/netcoreapp2.0/Product_Shop.api.dll
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/bin/Debug/netcoreapp2.0/Product_Shop.api.pdb
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.csprojAssemblyReference.cache
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.AssemblyInfoInputs.cache
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.AssemblyInfo.cs
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.dll
+C:/Users/Саша/Desktop/ninja-shop-api-master/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.pdb
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/bin/Debug/netcoreapp2.0/Product_Shop.api.deps.json
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/bin/Debug/netcoreapp2.0/Product_Shop.api.runtimeconfig.json
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/bin/Debug/netcoreapp2.0/Product_Shop.api.runtimeconfig.dev.json
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/bin/Debug/netcoreapp2.0/Product_Shop.api.dll
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/bin/Debug/netcoreapp2.0/Product_Shop.api.pdb
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.csprojAssemblyReference.cache
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.csproj.CoreCompileInputs.cache
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.AssemblyInfoInputs.cache
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.AssemblyInfo.cs
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.dll
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.pdb
+/Users/anymacstore/Downloads/Product Shop/ninja-shop.api/obj/Debug/netcoreapp2.0/Product_Shop.api.genruntimeconfig.cache
